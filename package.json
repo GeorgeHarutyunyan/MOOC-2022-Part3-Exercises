@@ -1,0 +1,27 @@
+{
+  "name": "part3-mooc-2022",
+  "version": "1.0.0",
+  "description": "MOOC Part3 exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GeorgeHarutyunyan/MOOC-2022-Part3-Exercises.git"
+  },
+  "author": "George Harutyunyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeHarutyunyan/MOOC-2022-Part3-Exercises/issues"
+  },
+  "homepage": "https://github.com/GeorgeHarutyunyan/MOOC-2022-Part3-Exercises#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
